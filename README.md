@@ -4,4 +4,4 @@
 > Librerias utilizadas: openCV y PySimpleGUI   (pip install opencv-python |||| pip install PySimpleGUI
 
 ### Finanzas
-> Librerias utilizadas: openCV y PySimpleGUI   (pip install opencv-python |||| pip install PySimpleGUI
+> Librerias utilizadas: pandas_datareader,mplfinance   (pip install pandas |||| pip install mplfinance
